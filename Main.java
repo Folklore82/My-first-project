@@ -4,7 +4,8 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// Här lägger jag in en kommentar för att testa git
+// HÃ¤r lÃ¤gger jag in en kommentar fÃ¶r att testa git
+// HÃ¤r kommer ytterligare en kommentar, inlagd frÃ¥n github
 public class Main {
 
     public static void main(String[] args) {
